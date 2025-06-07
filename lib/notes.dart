@@ -52,7 +52,7 @@ class _NoteScreenState extends State<Note> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Notas Diarias'),
+        title: const Text('Notas Diarias-David Martínez-1077'),
         backgroundColor: Colors.amber,
         centerTitle: true,
       ),
